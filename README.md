@@ -22,13 +22,13 @@ I build computer vision, LLM and forecasting systems end-to-end — from researc
 
 ### About Me
 
-- **Chief AI Officer @ Merra** — building AI that sees, reads and forecasts, then ships.
-- **Statistics @ Universitas Sebelas Maret** (Surakarta, Indonesia).
-- **AI research intern @ NAIST Japan** — worked on Large Language Models.
-- Shipped **CCTV computer vision** (LALINCEK — automatic vehicle & accident detection for smart governance).
-- Built **LSTM forecasting** with Bayesian hyperparameter tuning (published in IIETA · MMEP).
-- Ask me about **Python, R, SQL, Computer Vision, LLMs, LangGraph, multi-agent systems, AWS**.
-- Reach me at **hmazka19@gmail.com** or book a 1-on-1 on [Calendly](https://www.calendly.com).
+- Chief AI Officer @ Merra — building AI that sees, reads and forecasts, then ships.
+- Statistics @ Universitas Sebelas Maret (Surakarta, Indonesia).
+- AI research intern @ NAIST Japan — worked on Large Language Models.
+- Shipped CCTV computer vision (LALINCEK — automatic vehicle & accident detection for smart governance).
+- Built LSTM forecasting with Bayesian hyperparameter tuning (published in IIETA · MMEP).
+- Ask me about Python, R, SQL, Computer Vision, LLMs, LangGraph, multi-agent systems, AWS.
+- Reach me at hmazka19@gmail.com or book a 1-on-1 on [Calendly](https://www.calendly.com).
 
 <br>
 
@@ -90,10 +90,6 @@ I build computer vision, LLM and forecasting systems end-to-end — from researc
 ## Latest Blog Posts (Medium)
 
 <!-- BLOG-POST-LIST:START -->
-- [Numbers Are Not Text: A Dual-Knowledge Architecture for Equity Research](https://medium.com/@hmazka19/numbers-are-not-text-a-dual-knowledge-architecture-for-equity-research-85f5992712d8?source=rss-a8e06ed59632------2)
-- [MERCURIUS: A Multi-Agent Framework for 15-Minute Intraday Scalping Using LangGraph and Large…](https://blog.gopenai.com/mercurius-a-multi-agent-framework-for-15-minute-intraday-scalping-using-langgraph-and-large-74fe27047ac7?source=rss-a8e06ed59632------2)
-- [From Multi-Agent Research Framework to Deployed Trading Runtime](https://medium.com/@hmazka19/from-multi-agent-research-framework-to-deployed-trading-runtime-64b32789d278?source=rss-a8e06ed59632------2)
-- [PaperBanana: A Multi-Agent AI System That Transforms Academic Text into Publication](https://medium.com/@hmazka19/paperbanana-a-multi-agent-ai-system-that-transforms-academic-text-into-publication-c0d27e52335e?source=rss-a8e06ed59632------2)
 <!-- BLOG-POST-LIST:END -->
 
 > Recent writing on multi-agent LLM systems, equity-research knowledge architecture and shipping AI to production.
