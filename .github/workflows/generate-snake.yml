@@ -15,6 +15,10 @@ on:
     branches:
       - main
 
+# Explicitly grant the GITHUB_TOKEN write access (overrides the repo-wide default).
+permissions:
+  contents: write
+
 # The sequence of runs in this workflow:
 jobs:
   # This workflow contains a single job called "build"
