@@ -90,11 +90,11 @@ I build computer vision, LLM and forecasting systems end-to-end — from researc
 ## Latest Blog Posts (Medium)
 
 <!-- BLOG-POST-LIST:START -->
+- [I Turned 14 Minutes of Mall CCTV Into a Retail Intelligence Engine — No Cloud, No Training, No…](https://medium.com/@hmazka19/i-turned-14-minutes-of-mall-cctv-into-a-retail-intelligence-engine-no-cloud-no-training-no-9dbf35888b24?source=rss-a8e06ed59632------2)
 - [How I Built an AI That Learns From Every Ads](https://medium.com/@hmazka19/how-i-built-an-ai-that-learns-from-every-ads-50f63ecaa8c7?source=rss-a8e06ed59632------2)
 - [I Built an Open-Source Swarm of AI Agents That Finds, Scores, and Writes Outreach for Commercial…](https://medium.com/@hmazka19/i-built-an-open-source-swarm-of-ai-agents-that-finds-scores-and-writes-outreach-for-commercial-87d25b5ce31f?source=rss-a8e06ed59632------2)
 - [Numbers Are Not Text: A Dual-Knowledge Architecture for Equity Research](https://medium.com/@hmazka19/numbers-are-not-text-a-dual-knowledge-architecture-for-equity-research-85f5992712d8?source=rss-a8e06ed59632------2)
 - [MERCURIUS: A Multi-Agent Framework for 15-Minute Intraday Scalping Using LangGraph and Large…](https://blog.gopenai.com/mercurius-a-multi-agent-framework-for-15-minute-intraday-scalping-using-langgraph-and-large-74fe27047ac7?source=rss-a8e06ed59632------2)
-- [From Multi-Agent Research Framework to Deployed Trading Runtime](https://medium.com/@hmazka19/from-multi-agent-research-framework-to-deployed-trading-runtime-64b32789d278?source=rss-a8e06ed59632------2)
 <!-- BLOG-POST-LIST:END -->
 
 > Recent writing on multi-agent LLM systems, equity-research knowledge architecture and shipping AI to production.
